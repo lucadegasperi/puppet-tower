@@ -1,9 +1,9 @@
-# TextMate 2 Puppet Module for Boxen
+# Tower Puppet Module for Boxen
 
 ## Usage
 
 ```puppet
-include textmate2
+include tower
 ```
 
 ## Required Puppet Modules
